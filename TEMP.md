@@ -1,0 +1,28 @@
+개발 루프 명령어 생성 
+/develop-loop
+
+*가드레일 동적 생성 필요: Eval 에이전트는 Ralph Loop로 루프엔지니어링을 하여 완성도 있는 개발을 위해 입력된 컨텍스트를 분석하여 가드레일(Hook)과 GUARDRAILS.md 생성한다
+
+프론트엔드와 UI Art 는 반드시 supernova(https://github.com/uxjoseph/supanova-design-skill) 플러그인 사용
+
+Eval: 가드레일 생성 
+↓
+PM
+↓
+Orchestrator: 분배
+↓
+FrontEnd - BackEnd - UI Art
+↓
+QA 
+↓
+Eval: 판단 후 다시 Loop or Goal
+
+------------------
+
+
+/debate_loop @V0_PLAN.md
+
+/debate_loop @V0_PLAN.md @PRD.md @SPEC.md 프론트엔드 목업을 만들어줘.
+
+
+
